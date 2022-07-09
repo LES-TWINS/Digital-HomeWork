@@ -1,0 +1,17 @@
+button{
+    padding: 5px 25px;
+    background-color: rgb(36, 180, 180);
+    cursor: pointer;
+    border: none;
+    color: rgb(224, 223, 223);
+
+}
+.box{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+}
+h3{
+    font-size: 25px;
+}
